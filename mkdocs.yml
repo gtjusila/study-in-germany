@@ -1,6 +1,7 @@
 site_name: Study in Germany
 theme:
-  name: gitbook
+  name: null
+  custom_dir: './mkdocs_gitbook/'
 plugins: [] 
 nav:
   - 'index.md'

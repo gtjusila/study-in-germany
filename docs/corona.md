@@ -1,6 +1,6 @@
 # Corona Information
 
-## Berlin, Last Updated on 5. Febuary 2022
+###### Berlin, Last Updated on 5. Febuary 2022
 
 - Sinovac Vaccines are not recognized in Germany.
 - Astrazeneca are consult a family doctor (Hausartzt) to get it verified
