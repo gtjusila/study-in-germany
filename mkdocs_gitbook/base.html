@@ -19,14 +19,7 @@
     <meta rel="next" href="" /> {%- endblock %} {%- block styles %}
     <link href="{{ base_url }}/css/style.min.css" rel="stylesheet"> {%- for path in extra_css %}
     <link href="{{ path }}" rel="stylesheet"> {%- endfor %} {%- endblock %} {%- block extrahead %} {% endblock %}
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7L523Y2Z6W"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-7L523Y2Z6W');
-    </script>
+    <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "674d3d37cfbf4e88a388c84a414bbead"}'></script><!-- End Cloudflare Web Analytics -->
 </head>
 
 <body>
