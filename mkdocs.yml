@@ -1,9 +1,10 @@
 site_name: Study in Germany
 theme:
   name: gitbook
-plugins: []
+plugins: [] 
 nav:
   - 'index.md'
   - 'corona.md'
   - 'packing.md'
   - 'getting_around.md'
+  - 'general.md'

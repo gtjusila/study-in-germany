@@ -11,6 +11,8 @@
 - Ambulance: 112
 - Find a doctor: 116 117
 
+If you are sick, just call 116 117 and request an appointment with a general practitioner (Keyword: akute Behandlung beim Hausartzt). Then go to the appointment bringing your insurance certificate with you.
+
 # Some Common Medicine
 
 These are the ones I use, not a medical recommendation
