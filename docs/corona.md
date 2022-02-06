@@ -3,7 +3,7 @@
 ###### Berlin, Last Updated on 5. Febuary 2022
 
 - Sinovac Vaccines are not recognized in Germany.
-- Astrazeneca are consult a family doctor (Hausartzt) to get it verified
+- Astrazeneca Vaccines are recognized, consult a family doctor (Hausartzt) to get it verified
 - Booster shots needs to be verified by family doctor
 - If you recovered from corona, you are considered imune only for 3 months after you recover, then you need vaccination again
 - 3G rule applies in public transport, you need to be tested, vaccinated or recovered to use public transportation
